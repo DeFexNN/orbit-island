@@ -43,8 +43,12 @@ are preserved. `python cinematic/replace_audio.py` updates the existing film
 without re-encoding the video; compressed video-packet hashes must match before
 the file is replaced. In the production workspace, the first film and score
 remain in `output/previous/` and `audio/previous_sound/`; historical backups are
-excluded from the delivery archive. `python cinematic/package_project.py` creates the
-self-contained working-project archive.
+excluded from the delivery archive. From a committed Git checkout, run
+`python tools/build_release.py` to create the public working-project archive,
+film, audio master, verification report, and checksums in `release-assets/`.
+The public builder includes repository documentation and notices and removes
+machine-specific paths from generated reports. `cinematic/package_project.py`
+is an older local-only convenience export, not the publication builder.
 
 The render reads the existing application modules and uses Qt's offscreen
 platform at 2× pixel density. It never instantiates the Spotify monitor or Core
