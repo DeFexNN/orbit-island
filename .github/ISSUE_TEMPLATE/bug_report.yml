@@ -1,0 +1,31 @@
+name: Bug report
+description: A reproducible problem with playback, lyrics, volume, layout, or motion.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened?
+      description: Explain the actual and expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: How can we reproduce it?
+      description: Include steps and whether it also happens with --demo.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: Windows version, Python version, display scaling, player
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshot, recording, or relevant console output
+      description: Remove personal track data and local paths you do not want to publish.

@@ -1,0 +1,23 @@
+{
+  "hero_source": "cinematic/output/frames/frame_28.5.png",
+  "hero_source_sha256": "b7eec45a00fab5e1b6c469905bc7d760dbd63c46a577e77e582b3d012449a6c3",
+  "interface_source": "Actual DynamicIsland widgets through cinematic/native.py; no mock UI",
+  "teaser_source": "cinematic/output/Dynamic_Island_ORBIT.mp4, 5.2\u201321.8 seconds, 15 fps, silent loop",
+  "files": [
+    {
+      "name": "hero.png",
+      "bytes": 1269225,
+      "sha256": "b7eec45a00fab5e1b6c469905bc7d760dbd63c46a577e77e582b3d012449a6c3"
+    },
+    {
+      "name": "interface.png",
+      "bytes": 269487,
+      "sha256": "50751f0bc2ddfbff20f10a6289934d236ea6dcd0b099d0568197b0a93492ac30"
+    },
+    {
+      "name": "teaser.gif",
+      "bytes": 7742400,
+      "sha256": "dc497fe147c88941c5e762e3a2be0de5e42fe7d65742495897f1d404c32da5a1"
+    }
+  ]
+}

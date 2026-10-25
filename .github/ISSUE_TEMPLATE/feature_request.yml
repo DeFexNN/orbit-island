@@ -1,0 +1,19 @@
+name: Improvement
+description: Suggest a concrete improvement to an existing music workflow.
+title: "[Idea] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would this help you do?
+      description: Describe the workflow or friction first.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested behavior
+      description: Include a sketch or reference if it helps explain the idea.
+    validations:
+      required: true

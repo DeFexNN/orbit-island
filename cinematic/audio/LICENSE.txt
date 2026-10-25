@@ -1,0 +1,12 @@
+Dynamic Island cinematic original soundtrack and synthesis source
+
+All musical composition, sound effects, textures, and synthesis code in this
+directory are original procedural work. No recordings, music libraries, external
+samples, or third-party impulse responses are used.
+
+CC0-1.0 public-domain dedication: to the extent permitted by law, the creator
+waives copyright and related rights in this work. Free commercial and
+noncommercial use, modification, synchronization, and distribution are permitted
+without attribution. The work is provided without warranty.
+
+Full CC0 text: https://creativecommons.org/publicdomain/zero/1.0/legalcode

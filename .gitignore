@@ -1,0 +1,43 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv*/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+htmlcov/
+.coverage*
+coverage.xml
+
+# Machine state and credentials
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+perf_report.json
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Historical internal design/capture experiments
+/shots/
+/designs/
+/animations/
+
+# Rebuildable media; distributed through GitHub Releases
+/cinematic/output/
+/cinematic/native_proofs/
+/cinematic/audio/previous_sound/
+/cinematic/audio/*.wav
+/cinematic/audio/*.m4a
+/cinematic/audio/*_metrics.json
+/cinematic/audio/transition_comparison.json
+/release-assets/
+/dist/
+/build/
