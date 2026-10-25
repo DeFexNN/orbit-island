@@ -38,6 +38,6 @@ Do not commit credentials, lyrics caches, personal track data, logs, reference
 videos, virtual environments, or generated film exports. Original large media
 belongs in Releases. Dependency notices belong in `THIRD_PARTY_NOTICES.md`.
 
-The author has not assigned an open-source license to the application source
-yet; see `COPYRIGHT.md` before planning redistribution or submitting work that
-depends on a particular project license.
+The original application source and documentation use the MIT License. Submit
+contributions under the same terms. Third-party dependencies retain their own
+licenses; see `COPYRIGHT.md` and `THIRD_PARTY_NOTICES.md`.

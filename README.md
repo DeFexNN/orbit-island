@@ -11,8 +11,9 @@ A native Windows music island with fluid motion, player controls, and lyrics tha
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-8e7cbb?style=flat-square)](#quick-start)
 [![Python](https://img.shields.io/badge/Python-3.11%20%2F%203.12-c0abe7?style=flat-square)](#quick-start)
 [![Tests](https://github.com/DeFexNN/orbit-island/actions/workflows/tests.yml/badge.svg)](https://github.com/DeFexNN/orbit-island/actions/workflows/tests.yml)
+[![MIT](https://img.shields.io/badge/License-MIT-c0abe7?style=flat-square)](LICENSE)
 
-[**Watch the film ↗**](https://github.com/DeFexNN/orbit-island/releases/download/v0.1.0/ORBIT-Cinematic-Intro.mp4)
+[**Watch the film ↗**](https://github.com/DeFexNN/orbit-island/releases/latest/download/ORBIT-Cinematic-Intro.mp4)
 &nbsp; · &nbsp; [Get started](#quick-start)
 &nbsp; · &nbsp; [Releases](https://github.com/DeFexNN/orbit-island/releases)
 &nbsp; · &nbsp; [Українською](docs/README.uk.md)
@@ -32,9 +33,9 @@ interface cohesive.
 
 ## See it in motion
 
-[![Orbit in motion — real compact and expanded controls, lyrics, and floating companion](docs/media/teaser.gif)](https://github.com/DeFexNN/orbit-island/releases/download/v0.1.0/ORBIT-Cinematic-Intro.mp4)
+[![Orbit in motion — real compact and expanded controls, lyrics, and floating companion](docs/media/teaser.gif)](https://github.com/DeFexNN/orbit-island/releases/latest/download/ORBIT-Cinematic-Intro.mp4)
 
-**[Play the complete 32-second film with sound →](https://github.com/DeFexNN/orbit-island/releases/download/v0.1.0/ORBIT-Cinematic-Intro.mp4)**
+**[Play the complete 32-second film with sound →](https://github.com/DeFexNN/orbit-island/releases/latest/download/ORBIT-Cinematic-Intro.mp4)**
 
 The film uses real app widgets with authored offline demo metadata and LRC.
 Its original score includes soft tonal transitions, UI accents, and a cinematic
@@ -159,7 +160,7 @@ or suggest an [improvement](https://github.com/DeFexNN/orbit-island/issues/new?t
 
 Created by [DeFexNN](https://github.com/DeFexNN). Independent project; not affiliated with Apple or Spotify.
 
-Application licensing is documented in [COPYRIGHT.md](COPYRIGHT.md).
+Original source is [MIT licensed](LICENSE); see [COPYRIGHT.md](COPYRIGHT.md) for scope.
 The original cinematic sound-design source and score are [CC0](cinematic/audio/LICENSE.txt).
 
 </div>

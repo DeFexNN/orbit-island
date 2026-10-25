@@ -8,7 +8,7 @@
 
 Компактний плеєр із плавною анімацією, керуванням відтворенням і живою лірикою.
 
-[English](../README.md) · **Українська** · [Завантаження](https://github.com/DeFexNN/orbit-island/releases/tag/v0.1.0) · [Кінематографічне інтро](https://github.com/DeFexNN/orbit-island/releases/download/v0.1.0/ORBIT-Cinematic-Intro.mp4)
+[English](../README.md) · **Українська** · [Завантаження](https://github.com/DeFexNN/orbit-island/releases/latest) · [Кінематографічне інтро](https://github.com/DeFexNN/orbit-island/releases/latest/download/ORBIT-Cinematic-Intro.mp4)
 
 ![ORBIT — Dynamic Island для Windows](media/hero.png)
 
@@ -95,7 +95,7 @@ ORBIT шукає текст у LRCLIB за метаданими поточног
 
 ## Кінематографічне інтро
 
-[**Дивитися / завантажити ORBIT Cinematic Intro**](https://github.com/DeFexNN/orbit-island/releases/download/v0.1.0/ORBIT-Cinematic-Intro.mp4) — 32 секунди, 1920 × 1080, 60 кадрів/с, оригінальний стереосаундтрек із тональними переходами та скляними акцентами.
+[**Дивитися / завантажити ORBIT Cinematic Intro**](https://github.com/DeFexNN/orbit-island/releases/latest/download/ORBIT-Cinematic-Intro.mp4) — 32 секунди, 1920 × 1080, 60 кадрів/с, оригінальний стереосаундтрек із тональними переходами та скляними акцентами.
 
 У кадрі — справжні віджети PyQt6, запущені на демонстраційних даних. Камера, світло й типографіка створені для фільму. Це окреме інтро, яке не запускається разом із застосунком.
 
@@ -119,7 +119,7 @@ ORBIT шукає текст у LRCLIB за метаданими поточног
 
 Про проблему повідомляй через [Issues](https://github.com/DeFexNN/orbit-island/issues): додай версію Windows і Python, назву плеєра та кроки відтворення. Так простіше відрізнити поведінку ORBIT від обмежень медіасесії.
 
-Залежності, системні шрифти та походження звуку описані в [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
+Оригінальний код і документація доступні за [ліцензією MIT](../LICENSE). Авторський саундтрек і код його синтезу мають окрему посвяту CC0. Залежності, системні шрифти та походження звуку описані в [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
 
 <div align="center">
 

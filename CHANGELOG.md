@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 — 2026-10-25
+
+- License the original application source and documentation under MIT.
+- Include the license and matching notices in the complete project archive.
+- Use stable latest-release links for film and project downloads.
+
 ## 0.1.0 — 2026-10-25
 
 First public source release under the **Orbit** name.
